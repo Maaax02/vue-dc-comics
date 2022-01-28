@@ -36,6 +36,7 @@ export default {
         img{
             height: 35px;
             margin-left: 25px;
+            cursor: pointer;
         }
     }
 
